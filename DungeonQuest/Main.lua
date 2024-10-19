@@ -472,7 +472,7 @@ Tabs.Info:AddButton({
         setclipboard("https://www.facebook.com/PhBaAnh")
         Fluent:Notify({
             Title = "Notification",
-            Content = "Copied script's author to your clipboard",
+            Content = "Successfully Copied",
             Duration = 5
         })
     end
