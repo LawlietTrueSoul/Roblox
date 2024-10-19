@@ -314,7 +314,7 @@ end
 
 
 do
-    local function get_weapon_accessory()
+    function get_weapon_accessory()
         if not plr.Character then return end
         if not workspace:FindFirstChild(plr.Name) then return end
 
