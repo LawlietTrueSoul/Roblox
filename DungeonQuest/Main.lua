@@ -308,14 +308,13 @@ do
             end
         end
     end
-                        
     spawn(Speeding)
 end
 
 
 
 do
-    function get_weapon_accessory()
+    local function get_weapon_accessory()
         if not plr.Character then return end
         if not workspace:FindFirstChild(plr.Name) then return end
 
@@ -404,6 +403,7 @@ do
         end
     end)
 
+    --// fast attack
     Tabs.Main:AddToggle("szdxfuahsiu", { Title = "Fast Attack", Default = Settings.FastAttack }):OnChanged(
         function(v)
             Settings.FastAttack = v
