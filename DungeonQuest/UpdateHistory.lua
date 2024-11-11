@@ -1,15 +1,17 @@
 return {
     {
-        Title = "November 1, 2024",
+        Title = "November 10, 2024",
         Content = {
-            "- First Demo"
+            "- Completed UI (without functions working)"
         },
     },
     
     {
         Title = "November 11, 2024",
         Content = {
-            "- Release"
+            "- Done with: Fast Attack",
+            "- Finished [Auto Farm Dungeon]",
+            "- [PC] and [Mobile] is both supported now"
         },
     },
 }
