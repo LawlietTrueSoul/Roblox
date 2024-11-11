@@ -18,7 +18,7 @@ return {
     {
         Title = "November 12, 2024",
         Content = {
-            "- Fixed [Fast Attack Freezing]",
+            "- Fixed [Fast Attack Freezes] issue",
             "- Added [Auto Skill]"
         },
     },
