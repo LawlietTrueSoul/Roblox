@@ -14,4 +14,13 @@ return {
             "- [PC] and [Mobile] is both supported now"
         },
     },
+    
+    {
+        Title = "November 12, 2024",
+        Content = {
+            "- Fixed [Fast Attack Freezing]",
+            "- Added [Auto Skill]"
+        },
+    },
+    
 }
