@@ -33,10 +33,7 @@ return {
     {
         Title = "November 13, 2024",
         Content = {
-            "- Added [Auto Sell]",
-            "- Added [Bring Mob]",
-            "- Added [Skill Method]",
-            "- Added [Youtube Mode]",
+            "- Added [Auto Sell], [Bring Mob], [Skill Method], [Youtube Mode]",
         },
     },
 
