@@ -29,5 +29,12 @@ return {
             "- Added [Auto Sell]",
         },
     },
-    
+
+    {
+        Title = "November 13, 2024",
+        Content = {
+            "- Added [Auto Sell]",
+        },
+    },
+
 }
