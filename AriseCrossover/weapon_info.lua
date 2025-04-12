@@ -34,7 +34,7 @@ end
 
 
 
-{
+return {
     ["SpikeMace"] = {
         ["CanSell"] = true,
         ["Rarity"] = "Common",
