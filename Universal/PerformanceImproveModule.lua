@@ -444,6 +444,10 @@ local function applyOtherScript()
             Object.Enabled = false
         end
     end
+
+	pcall(function()
+		settings().Rendering.QualityLevel = Enum.QualityLevel.Level01
+	end)
 end
 local function Returned()
     applyUltra()
@@ -453,3 +457,5 @@ end
 
 
 return Returned
+
+-- https://raw.githubusercontent.com/LawlietTrueSoul/Roblox/refs/heads/main/Universal/PerformanceImproveModule.lua
