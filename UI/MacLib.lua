@@ -6391,7 +6391,7 @@ function MacLib:Demo()
 		Text = "Sub-Label. Lorem ipsum odor amet, consectetuer adipiscing elit."
 	})
 
-	MacLib:SetFolder("Maclib")
+	MacLib:SetFolder("Slinky Hub")
 	tabs.Settings:InsertConfigSection("Left")
 
 	Window.onUnloaded(function()
